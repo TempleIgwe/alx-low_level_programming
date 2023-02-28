@@ -2,7 +2,8 @@
 
 
 	/**
-	 * main - print all alphabet in lowercase
+	 * main  - print all alphabet in lowercase
+	 * Return: alphabet (sucessful)
 	 */
 
 
